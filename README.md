@@ -3,7 +3,7 @@
 **React(SPA) + Node(Express)**로 만든 LoL 전적 검색 서비스입니다.  
 프론트는 `client/`에서 UI·라우팅을 담당하고, 백엔드는 `server/`에서 Riot Games API를 프록시/가공하여 제공합니다.
 
-> 리포 루트에 `client/`, `server/` 폴더가 있습니다. 또한 주 사용 언어는 JavaScript이며 CSS/HTML이 일부 포함됩니다. :contentReference[oaicite:0]{index=0}
+
 
 ---
 
